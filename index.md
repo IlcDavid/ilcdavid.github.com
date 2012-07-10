@@ -4,7 +4,7 @@ title: Willkommen auf David's Seite
 ---
 {% include JB/setup %}
  
-   Autor :
+    Autor :
       Name : David Quirmbach
       email : david.quirmbach@ilc-solutions.de
       GitHub : IlcDavid
