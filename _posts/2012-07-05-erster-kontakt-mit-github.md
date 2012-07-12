@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Erster Kontakt mit GitHub"
 description: "05-07-20012"
